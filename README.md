@@ -12,7 +12,7 @@ Generates a map in a html file for all the trails in the White Mountain Guide 30
 1. Click on <a href="https://mybinder.org/v2/gh/theja/redline_map/master"><img src="http://mybinder.org/badge_logo.svg"></a>, or copy an paste the following URL in your browser:
 `https://mybinder.org/v2/gh/theja/redline_map/master`. I would recommend opening the binder in a new tab if you want to keep this page open.
 2. Open the `Input` folder and upload the excel spreadsheet you use for monitoring redline progress
-    * The spreadsheet should follow the format of the `AMC_30th_Edition_Redlining_v30_9_template.xls` file in the `Input` folder
+    * The spreadsheet should follow the format of the `Redlining_template.xls` file in the `Input` folder
     * The code accounts for some common deviations from the format but it might raise an error sometimes
     * If an error is raised due to formatting, I tried to include helpful information in the error message. Adjust the format accordingly and upload the spreadsheet again
     * If you don't have the spreadsheet, feel free to download the template and use it to monitor your hiking progress
