@@ -1,12 +1,12 @@
 # Redline Map Generator
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder_.org/my_link_here)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theja/redline_map/master)
 
 Generates a map in a html file for all the trails in the White Mountain Guide 30th edition. The trails are colored based on the hiked status taken from spreadsheet used to monitor progress
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder_.org/my_link_here
+https://mybinder.org/v2/gh/theja/redline_map/master
 
 ## Notes
 * The map has geometries for 643 trails
