@@ -2,13 +2,13 @@
     <h1>Redline Map Generator</h1>
       <p>Generates a map in a html file for all the trails in the White Mountain Guide 30th edition. The trails are colored based on the hiked status taken from spreadsheet used to monitor progress</p>
 
-  <h1>Notes:</h2>
+  <h3>Notes:</h3>
     <ol>
       <li>The map has geometries for 643 trails</li>
       <li>If you find any trails missing or geometries to be wrong, please let me know at pvvktheja@gmail.com</li>
     </ol>
 
-  <h2>Instructions:</h2>
+  <h3>Instructions:</h3>
     <ol>
       <li>Upload your excel spreadsheet for monitoring redline progress to the project
         <ul>
@@ -21,7 +21,7 @@
       <li>Run the jupyter notebook and when prompted, enter the name of the file with the correct extension (.xls or .xlsx)</li>
     </ol>
 
-  <h2>Common Issues</h2>
+  <h23>Common Issues</h3>
     <ul>
       <li>
         <b>Issue:</b> The spreadsheet does not follow the format of the template<br>
