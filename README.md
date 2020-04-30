@@ -1,6 +1,8 @@
 <html>
-    <h1>Redline Map Generator</h1>
-      <p>Generates a map in a html file for all the trails in the White Mountain Guide 30th edition. The trails are colored based on the hiked status taken from spreadsheet used to monitor progress</p>
+<body>
+
+  <h1>Redline Map Generator</h1>
+    <p>Generates a map in a html file for all the trails in the White Mountain Guide 30th edition. The trails are colored based on the hiked status taken from spreadsheet used to monitor progress</p>
 
   <h3>Notes:</h3>
     <ul>
@@ -22,7 +24,7 @@
       <li>Run the jupyter notebook and when prompted, enter the name of the file with the correct extension (.xls or .xlsx)</li>
     </ol>
 
-  <h23>Common Issues</h3>
+  <h3>Common Issues</h3>
     <ul>
       <li>
         <b>Issue:</b> The spreadsheet does not follow the format of the template<br>
@@ -33,4 +35,6 @@
         <b>Solution:</b> Reformat the spreadsheet, upload it and run the code again
       </li>  
     </ul>
+
+</body>
 </html>
