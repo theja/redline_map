@@ -1,5 +1,3 @@
-pathlib
-json
 folium==0.10.1
 xlrd==1.2.0
 openpyxl==3.0.3
