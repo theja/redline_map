@@ -7,6 +7,8 @@ Generates a map in a html file for all the trails in the White Mountain Guide 30
 ## Notes
 * The map has geometries for 643 trails
 * If you find any trails missing or geometries to be wrong, please let me know at pvvktheja@gmail.com
+* I won't have access to your spreadsheet or the map that is generated
+* If your spreadsheet has any sensitive information, I would recommend removing it before uploading it for security reasons
 
 ## Instructions
 1. Click on <a href="https://mybinder.org/v2/gh/theja/redline_map/master"><img src="http://mybinder.org/badge_logo.svg"></a>, or copy an paste the following URL in your browser:
@@ -15,7 +17,8 @@ Generates a map in a html file for all the trails in the White Mountain Guide 30
     * The spreadsheet should follow the format of the `Redlining_template.xls` file in the `Input` folder
     * The code accounts for some common deviations from the format but it might raise an error sometimes
     * If an error is raised due to formatting, I tried to include helpful information in the error message. Adjust the format accordingly and upload the spreadsheet again
-    * If you don't have the spreadsheet, feel free to download the template and use it to monitor your hiking progress
+    * If you don't have the spreadsheet, feel free to download the template and use it to monitor your hiking progress.
+    * You are also welcome to just use the spreadsheet template to build a sample map.
 3. Run the `redline_to_map.ipynb` jupyter notebook and when prompted, enter the name of spreadsheet (e.g. `AMC_30th_Edition_Redlining_v30_9.xls`) with the correct extension (.xls or .xlsx)
 4. Output will be saved as a HTML file in the `Output` folder. You can download the file and use it as you please.
 
