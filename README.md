@@ -19,7 +19,7 @@ Generates a map in a html file for all the trails in the White Mountain Guide 30
     * If an error is raised due to formatting, I tried to include helpful information in the error message. Adjust the format accordingly and upload the spreadsheet again
     * If you don't have the spreadsheet, feel free to download the template and use it to monitor your hiking progress.
     * You are also welcome to just use the spreadsheet template to build a sample map.
-3. Run the `redline_to_map.ipynb` jupyter notebook and when prompted, enter the name of spreadsheet (e.g. `AMC_30th_Edition_Redlining_v30_9.xls`) with the correct extension (.xls or .xlsx)
+3. Run the `excel_to_redline_map.ipynb` jupyter notebook and when prompted, enter the name of spreadsheet (e.g. `AMC_30th_Edition_Redlining_v30_9.xls`) with the correct extension (.xls or .xlsx)
 4. Output will be saved as a HTML file in the `Output` folder. You can download the file and use it as you please.
 
 ## Acknowledgments
