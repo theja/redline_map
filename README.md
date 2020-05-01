@@ -8,7 +8,7 @@ Generates a map in a html file for all the trails in the White Mountain Guide 30
 * The map has geometries for 643 trails
 * If you find any trails missing or geometries to be wrong, please let me know at pvvktheja@gmail.com
 * I won't have access to your spreadsheet or the map that is generated
-* If your spreadsheet has any sensitive information, I would recommend removing it before uploading it for security reasons
+* If your spreadsheet has any sensitive information, I would recommend modifying it before uploading it for security reasons
 
 ## Instructions
 1. Click on <a href="https://mybinder.org/v2/gh/theja/redline_map/master"><img src="http://mybinder.org/badge_logo.svg"></a>, or copy an paste the following URL in your browser:
