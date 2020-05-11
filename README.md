@@ -25,4 +25,4 @@ Generates a map in a html file for all the trails in the White Mountain Guide 30
 5. The map generated will have all the trails that are completely hiked in red and everything else in blue.
 
 ## Acknowledgments
-I would like to thank Beth Zimmer, Andreas Frese and others in the red-lining community for providing gps tracks of trails used here. Thank you to all those involved in making the spreadsheet template that most of use to keep track of our hiking progress. My gratitude goes to all those who maintain the trails we enjoy and those involved in making the White mountain Guide possible.
+I would like to thank Beth Zimmer, Andreas Frese and others in the red-lining community for providing gps tracks of trails used here. Thank you to all those involved in making the spreadsheet template that most of us use to keep track of our hiking progress. My gratitude goes to all those who maintain the trails we enjoy and those involved in making the White mountain Guide possible.
