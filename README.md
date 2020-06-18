@@ -5,7 +5,7 @@ Generates a map in a html file for all the trails in the White Mountain Guide 30
 
 
 ## Notes
-* This works with 29th and 30th edition wrokbooks.
+* This works with 29th and 30th edition workbooks.
 * The map has geometries for 643 trails. While this is not a complete list of trails, it has most of the ones in 30th edition. Some trails in the older 29th edition are missing
 * If you find any trails missing or geometries to be wrong, please let me know at pvvktheja@gmail.com
 * I won't have access to your spreadsheet or the map that is generated
