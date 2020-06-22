@@ -1,6 +1,13 @@
 
 .gitignore
-Files/~$AMC_30th_Edition_Redlining_v30_9.xlsx
+Files
 Output
 .ipynb_checkpoints
+.idea
 venv
+Input/Edition differences.xlsx
+Input/AMC_29th_Edition_Redlining_29_3.xls
+Input/AMC_30th_Edition_Redlining_v30_9.xls
+Input/AMC_30th_Edition_Redlining_v30_9.xlsx
+__pycache__
+Input/29th edition names.txt
